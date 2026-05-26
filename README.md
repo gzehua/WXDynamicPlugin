@@ -10,7 +10,7 @@
 
 ### 零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构
 
-## 示例Sample （注意，请不要抓包，设置代理等！！！请不要抓包，设置代理等！！！）
+## 示例Sample （注意，请不要抓包，设置代理等！！！请不要抓包，设置代理等！！！ ）
 
 ![扫码下载](https://raw.githubusercontent.com/wgllss/WXDynamicPlugin/master/WX-Resource/wx-pic/Qrcode.png)
 
